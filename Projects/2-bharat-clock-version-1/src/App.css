@@ -1,0 +1,28 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+}
+
+.app-name {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+}
+
+.app-description {
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+}
+
+.time-explainer {
+    font-size: 1rem;
+    color: #555;
+}
+.time-explainer {
+    margin-top: 1rem;
+    text-align: center;
+}
